@@ -11,6 +11,17 @@ Sistem manajemen kendaraan otomotif berbasis Java yang memodelkan hierarki kenda
 ## 3. Petunjuk Compile dan Run Melalui Terminal
 Pastikan Java Development Kit (JDK) telah terinstal. Buka terminal pada direktori kode sumber, lalu jalankan perintah berikut:
 
-**Compile seluruh file Java:**
-```bash
+
+Buka terminal dan arahkan ke direktori tempat seluruh berkas .java disimpan:
+
+cd path/ke/folder/Responsi-Praktikum-PBO
+
+
+Compile seluruh berkas kode sumber Java:
+
 javac *.java
+
+
+Jalankan program utama (Main):
+
+java Main
